@@ -11,15 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/luxplanjay/webpack-starter-kit.git"
+    "url": "git+https://github.com/свой текцщий репозиторий" 
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Belik Sergey <datura288@gmail.com>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/luxplanjay/webpack-starter-kit/issues"
-  },
-  "homepage": "https://github.com/luxplanjay/webpack-starter-kit#readme",
+  "homepage": "https://github.com/имя_пользователя.github.io/имя_репозитория",
   "devDependencies": {
     "@babel/core": "^7.11.6",
     "@babel/plugin-proposal-class-properties": "^7.10.4",
